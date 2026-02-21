@@ -92,3 +92,16 @@ If you’d like, I can now:
 • Format this as a 1080x1350 Instagram-ready layout (carousel version)
 • Create a short caption optimized for Instagram engagement
 • Or design a minimal luxury-style version suitable for professional crypto pages
+==================================================================================
+
+https://quazenthor.com/whitepaper.pdf
+https://quazenthor.com/token-info.pdf
+https://quazenthor.com/terms.pdf
+https://quazenthor.com/official-token-information.pdf
+https://quazenthor.com/clarification.pdf
+https://quazenthor.com/scope-declaration.pdf
+https://quazenthor.com/solidityscan-billing.pdf
+https://quazenthor.com/logo.svg
+
+===================================================================================
+
