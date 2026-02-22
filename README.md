@@ -5,7 +5,33 @@ X (Twitter Owner): https://x.com/sos_tbt
 Facebook (Owner): https://www.facebook.com/QWBQToken
 GitHub (Owner Repo): https://github.com/hokar1404/QWBQ-Token
 
+Founder Declaration
+I, toora dokht, declare that I am the founder and initiator of the Quazenthor (QWBQ) project. This project is a personal educational initiative to deploy a minimal, immutable BEP-20 token on the BNB Smart Chain mainnet as a public reference for learning and technical study.
 
+The project has no commercial intent, no fundraising mechanisms, no token sales, and no investment opportunities. It exists solely to demonstrate standard BEP-20 behavior in a live blockchain environment, allowing developers, students, and researchers to interact with real on-chain mechanics.
+
+All project documentation, updates, and communications are managed by me or designated contributors under my coordination. The project remains fully transparent, with all on-chain activity publicly verifiable via BscScan.
+
+Tokenomics & Supply Structure
+Total supply is permanently fixed. No minting, burning, taxation or upgradeability exists. Educational distribution is carried out gradually and all changes are transparently visible on-chain.
+
+Name: quazenthor
+Symbol: QWBQ
+Decimals: 18
+Total Supply: 5,000,000,000,000 QWBQ (5.00T) – Fixed at deployment
+Contract Address: 0x013f5f2F7F5b027012415A783ac2ed69EF936aE8
+Transfers follow standard BEP-20 logic with no fees, taxes, reflections or limits. Only standard BNB gas fees apply.
+
+Supply Structure & Transparency
+Total Supply Clarification
+Total supply is permanently fixed at 5,000,000,000,000 QWBQ (5.00T). No minting, burning, taxation, or upgradeability exists. The supply was minted once at deployment and remains capped forever.
+
+On-Chain Distribution & Holders
+Educational distribution is gradual and manual, with all changes transparently visible on the BNB Smart Chain. The initial supply is held by the deployer wallet for controlled release in educational contexts.
+
+View Current Holders: Holders List on BscScan
+
+View Token Transfers (Distribution History): Token Transfers on BscScan
 QUAZENTHOR (QWBQ)
 
 A Live BEP-20 Educational Reference on BNB Smart Chain
